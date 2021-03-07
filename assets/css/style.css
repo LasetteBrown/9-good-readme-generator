@@ -1,0 +1,18 @@
+body {
+    background-image: url("../images/moran-ndB9--ERS4E-unsplash.jpg");
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card {
+    border: solid;
+    border-radius: 5%;
+    background-color: whitesmoke;
+    height: 90%;
+    padding: 2%;
+    margin: 5%;
+}
+
+header{
+    text-align: center;
+
+}
