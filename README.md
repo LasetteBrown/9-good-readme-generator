@@ -20,11 +20,11 @@ Every coder needs a good readme to explain their project. However, they can be t
         
 ## Installation
         
-You will need to have node installed on your computer to run this program. you can download node here ![node]( https://www.nodesoftware.com/?gclid=CjwKCAiAkJKCBhAyEiwAKQBCksM0Jw7KKnIc5NgyG7u7T_DQtqNs0sOlskLxWgoq1xjnJ5bu6WesvBoCqaAQAvD_BwE). You will also need to install npm in order to run this program. This can be done by running the command ‘npm i’ in your terminal. 
+You will need to have node installed on your computer to run this program. you can download node here [node]( https://www.nodesoftware.com/?gclid=CjwKCAiAkJKCBhAyEiwAKQBCksM0Jw7KKnIc5NgyG7u7T_DQtqNs0sOlskLxWgoq1xjnJ5bu6WesvBoCqaAQAvD_BwE). You will also need to install npm in order to run this program. This can be done by running the command ‘npm i’ in your terminal. 
         
 ## Usage
         
-This product can be used to generate a generic README file. To do so, after you have installed what you need, simply type ‘node index.js’ into the terminal.The terminal will ask you questions to determine the content of your README file. Simply answer each questions and press enter to move to the next one. Once you have answered all the questions, the terminal will display ‘success’ and a new readme will be generated. Then simply move the readme to the location where it is needed. Here is a link to the video of how I wrote this README using this README generator: ![ https://lasettebrown.github.io/9-good-readme-generator/](https://lasettebrown.github.io/9-good-readme-generator/)          
+This product can be used to generate a generic README file. To do so, after you have installed what you need, simply type ‘node index.js’ into the terminal.The terminal will ask you questions to determine the content of your README file. Simply answer each questions and press enter to move to the next one. Once you have answered all the questions, the terminal will display ‘success’ and a new readme will be generated. Then simply move the readme to the location where it is needed. Here is a link to the video of how I wrote this README using this README generator: [ https://lasettebrown.github.io/9-good-readme-generator/](https://lasettebrown.github.io/9-good-readme-generator/)          
         
 ## License
         
