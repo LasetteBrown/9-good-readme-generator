@@ -200,7 +200,7 @@ ${copywrite}
 `
 
         //then the file is written into the directory. Any existing readme file will be overwritten.
-        fs.writeFile('../../README.md', readmeTemplate, (err) =>
+        fs.writeFile('./out/README.md', readmeTemplate, (err) =>
             err ? console.log(err) : console.log('Success!')
         );
 
